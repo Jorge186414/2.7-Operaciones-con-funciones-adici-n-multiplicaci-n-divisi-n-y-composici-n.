@@ -8,7 +8,8 @@
 %              Orlando Mendoza Valentin
 %              Angel Jesus Santiago Hernández
 %              Bryan Abner Garcia Cruz.
-%              Angel Manuel Zarco Valerio
+%              Angel Manuel Zarco Valerio.
+
 %Date:         25/11/2021
 %Funcion:      Resta de funciones
 %Usage:        >>pwd
