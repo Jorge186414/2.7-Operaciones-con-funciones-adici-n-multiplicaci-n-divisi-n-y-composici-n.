@@ -8,7 +8,7 @@
 %              Orlando Mendoza Valentin
 %              Angel Jesus Santiago Hernández
 %              Bryan Abner Garcia Cruz.
-%              Angel Manuel Zarco Valerio
+%              Angel Manuel Zarco Valerio.
 %Date:         25/11/2021
 %Funcion:      ultiplicacion de funciones
 %Usage:        >>pwd
@@ -17,6 +17,7 @@
 %              >>ejemplo_multiplicacion
 %Notes:        Se necesita el programa Octave, usar su linea de comando
 %              https://octaveintro.readthedocs.io/en/latest/index.html
+
 
 %Limpiar pantalla
 clc
