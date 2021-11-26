@@ -4,11 +4,12 @@
 %              y composición.
 %Descripcion:  Script para graficar las operaciones de funciones del tema 2.7
 %Author:       Jorge Miranda Zuñiga
-%              Erick Gabriel Garcia
+%              Erick Gabriel García
 %              Orlando Mendoza Valentin
 %              Angel Jesus Santiago Hernandez
 %              Bryan Abner Garcia Cruz.
-%              Angel Manuel Zarco Valerio
+%              Angel Manuel Zarco Valerio.
+
 %Date:         25/11/2021
 %Funcion:      Division de funciones
 %Usage:        >>pwd
