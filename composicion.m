@@ -7,7 +7,7 @@
 %              Erick Gabriel García
 %              Orlando Mendoza Valentin
 %              Angel Jesus Santiago Hernandez
-%              Bryan Abner Garcia Cruz
+%              Bryan Abner Garcia Cruz.
 %              Angel Manuel Zarco Valerio
 %Date:         25/11/2021
 %Funcion:      Composicion de funciones
