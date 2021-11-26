@@ -1,12 +1,12 @@
 %Octave Script
 %School:       Tecnologico de Estudios Superiores de Jilotepec.
-%Title:        2.7 Operaciones con funciones: adici髇, multiplicaci髇, divisi髇 
-%              y composici髇.
+%Title:        2.7 Operaciones con funciones: adici贸n, multiplicaci贸n, divisi贸n 
+%              y composici贸n.
 %Descripcion:  Script para graficar las operaciones de funciones del tema 2.7
-%Author:       Jorge Miranda Zu駃ga
-%              Erick Gabriel Garc韆
+%Author:       Jorge Miranda Zu帽iga
+%              Erick Gabriel Garc铆a
 %              Orlando Mendoza Valentin
-%              Angel Jesus Santiago Hern醤dez
+%              Angel Jesus Santiago Hernandez
 %              Bryan Abner Garcia Cruz
 %              Angel Manuel Zarco Valerio
 %Date:         25/11/2021
