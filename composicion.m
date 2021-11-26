@@ -4,7 +4,7 @@
 %              y composición.
 %Descripcion:  Script para graficar las operaciones de funciones del tema 2.7
 %Author:       Jorge Miranda Zuñiga
-%              Erick Gabriel García
+%              Erick Gabriel Garcia
 %              Orlando Mendoza Valentin
 %              Angel Jesus Santiago Hernandez
 %              Bryan Abner Garcia Cruz
