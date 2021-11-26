@@ -7,7 +7,7 @@
 %              Erick Gabriel Garcia
 %              Orlando Mendoza Valentin
 %              Angel Jesus Santiago Hernández
-%              Bryan Abner Garcia Cruz
+%              Bryan Abner Garcia Cruz.
 %              Angel Manuel Zarco Valerio
 %Date:         25/11/2021
 %Funcion:      Multiplicacion de funciones
