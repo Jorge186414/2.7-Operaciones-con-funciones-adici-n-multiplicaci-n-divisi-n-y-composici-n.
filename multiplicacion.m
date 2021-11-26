@@ -6,7 +6,7 @@
 %Author:       Jorge Miranda Zuñiga
 %              Erick Gabriel Garcia
 %              Orlando Mendoza Valentin
-%              Angel Jesus Santiago Hernández
+%              Angel Jesus Santiago Hernandez
 %              Bryan Abner Garcia Cruz.
 %              Angel Manuel Zarco Valerio.
 %Date:         25/11/2021
